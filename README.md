@@ -1,0 +1,2 @@
+# kirtro_bot
+dllm
